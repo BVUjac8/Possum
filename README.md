@@ -14,8 +14,6 @@ Determining the significance of the gender as well as the relationships between:
 ![Possum](https://i.pinimg.com/564x/8b/91/0c/8b910c56febeec75206bd5bc04387d3b.jpg)
 ### Technologies
 ***
-* [Python](https://www.python.org/): Version 3.7 or higher
-* [Pycharm](https://www.jetbrains.com/pycharm/): Most recent version
 * [R](https://www.r-project.org/): Most recent version
 * [R Studio](https://www.rstudio.com/): Most recent version
 * [Microsoft Excel](https://www.microsoft.com/en-us/): Any version
