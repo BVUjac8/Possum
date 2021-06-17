@@ -30,5 +30,5 @@ Python & Pycharm and R & R Studio should be downloaded from website, all others 
 Collaboration can be made to perform regression analysis upon the data set.
 ### FAQs
 ***
-1. **Why is data analysis of a data set called possum important to perform?**
+1. **Why is a data analysis of a data set called possum important to perform?**
 _Determining the significance of the gender as well as the relationships between: total length, tail length, chest girth, belly girth versus the gender of the possum is unique to know the differences between male and female possums._
