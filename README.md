@@ -10,8 +10,8 @@ A data analysis of a data set called possum.
 ### General Info
 ***
 
-### Hoei eruption of 1707
-![Hoei eruption of 1707](https://www.eri.u-tokyo.ac.jp/VRC/vrc/fuji1707.jpg)
+### Possum
+![Possum](https://i.pinimg.com/564x/8b/91/0c/8b910c56febeec75206bd5bc04387d3b.jpg)
 ### Technologies
 ***
 * [Python](https://www.python.org/): Version 3.7 or higher
