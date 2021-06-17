@@ -9,7 +9,7 @@ A data analysis of a data set called possum.
 5. [FAQs](#faqs)
 ### General Info
 ***
-
+Determining the significance of the gender as well as the relationships between: total length, tail length, chest girth, & belly girth versus the gender of the possum.
 ### Possum
 ![Possum](https://i.pinimg.com/564x/8b/91/0c/8b910c56febeec75206bd5bc04387d3b.jpg)
 ### Technologies
@@ -31,4 +31,4 @@ Collaboration can be made to perform regression analysis upon the data set.
 ### FAQs
 ***
 1. **Why is data analysis of a data set called possum important to perform?**
-_ _
+_Determining the significance of the gender as well as the relationships between: total length, tail length, chest girth, belly girth versus the gender of the possum is unique to know the differences between male and female possums._
