@@ -17,7 +17,6 @@ Determining the significance of the gender as well as the relationships between:
 * [R](https://www.r-project.org/): Most recent version
 * [R Studio](https://www.rstudio.com/): Most recent version
 * [Microsoft Excel](https://www.microsoft.com/en-us/): Any version
-* [Microsoft PowerPoint](https://www.microsoft.com/en-us/): Any version
 * [Microsoft Word](https://www.microsoft.com/en-us/): Any version
 * [Adobe PDF](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): Any version
 ### Installation
